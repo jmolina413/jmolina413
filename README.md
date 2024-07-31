@@ -3,7 +3,7 @@
 
 I'm an engineer with expertise in Software, Data, Backend, and IT, based in Dallas, Texas. My passion lies in building innovative solutions using cutting-edge technology trends. I strive to solve real-world problems through code, ensuring that every project is crafted from the ground up, from planning and designing to final implementation.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📬 Connect with Me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jonathangmolina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmolina413" height="30" width="40" /></a>
 </p>
