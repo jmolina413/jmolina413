@@ -3,6 +3,16 @@
 
 I'm an engineer with expertise in Software, Data, Backend, and IT, based in Dallas, Texas. My passion lies in building innovative solutions using cutting-edge technology trends. I strive to solve real-world problems through code, ensuring that every project is crafted from the ground up, from planning and designing to final implementation.
 
+- 🔭 I’m currently working on **Job Portal Application**
+
+- 🌱 I’m currently learning **Python**
+
+- 💬 Ask me about **react, JS**
+
+- 📫 How to reach me **jbmolina413@gmail.com**
+
+- ⚡ Fun fact **I used to sell exotic birds!**
+
 <h3 align="left">📬 Connect with Me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jonathangmolina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmolina413" height="30" width="40" /></a>
