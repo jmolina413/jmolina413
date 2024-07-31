@@ -4,7 +4,7 @@
 I'm an engineer with expertise in Software, Data, Backend, and IT, based in Dallas, Texas. My passion lies in building innovative solutions using cutting-edge technology trends. I strive to solve real-world problems through code, ensuring that every project is crafted from the ground up, from planning and designing to final implementation.
 
 <p align="left">
-   <a href="https://github.com/jonathanmolina?tab=followers">
+   <a href="[https://github.com/jonathanmolina?tab=followers](https://github.com/jmolina413?tab=followers)">
       <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="https://github.com/jonathanmolina?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
