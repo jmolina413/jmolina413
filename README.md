@@ -9,7 +9,11 @@ I'm an engineer with expertise in Software, Data, Backend, and IT, based in Dall
    <a href="https://github.com/jonathanmolina?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
-🧰 Languages and Tools
+
+---
+
+### 🧰 Languages and Tools
+
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -26,6 +30,3 @@ I'm an engineer with expertise in Software, Data, Backend, and IT, based in Dall
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-📊 Stats
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=jonathanmolina&theme=gruvbox&border_radius=4.5) -->
