@@ -29,4 +29,3 @@ I'm an engineer with expertise in Software, Data, Backend, and IT, based in Dall
 📊 Stats
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=jonathanmolina&theme=gruvbox&border_radius=4.5) -->
-Feel free to customize further according to your preferences and specific achievements.
